@@ -10,33 +10,34 @@
 - [ci/cd]() (GitHub Actions)
 - [back-end server url](NA) 
 - [front-end application](NA)
+- [swagger API](https://app.swaggerhub.com/apis-docs/danwin007/lab-06-api/0.1#/)
 
 #### Documentation
 - [jsdoc]()
 
 Update the below info. it is copied from lab 1
 ### Modules
-#### `index.js`
+
+N/A
 
 ##### Exported Values and Methods
 
-##### `Input -> object`
-checks for correct input, returns object for Notes to check against
-
-##### `Notes -> console.log`
-checks for correct input, then outputs console log
+N/A
 
 ### Setup
 
 #### `.env` requirements (where applicable)
 - `PORT` - Port Number
 
+#### Json-Server Command for db.json
+- fire json-server with 'json-server --watch data/db.json'
+
 #### How to initialize/run your application (where applicable)
 
-- `notes -a "notescopy"`
-- should return "i have an app", "adding note", "(randomnum): (notescopy)"
+- N/A
 
 #### How to use your library (where applicable)
+
 
 #### Tests
 
@@ -44,8 +45,8 @@ checks for correct input, then outputs console log
 - Any tests of note?
 - Describe any tests that you did not complete, skipped, etc 
 
-- Unit Tests: `npm test`
+- Unit Tests: N/A
 
 #### UML
 
-![UML Diagram](lab-00-UML.png)
+![UML Diagram]() NA
